@@ -4,3 +4,4 @@ version=0.2.13
 versionCode=1
 author=Florijan
 description=Installs F-Droid Privileged Extension systemlessly
+updateJson=https://github.com/FlorijanDem/F-Droid_Privileged_Extension_Magisk.git
