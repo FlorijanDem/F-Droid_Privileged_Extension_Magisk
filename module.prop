@@ -1,6 +1,6 @@
-id=Fdroid-Priv
+id=Fdroid-P-E
 name=F-Droid Privileged Extension
-version=2021-07-21
-versionCode=19
-author=Ryaniskira
+version=0.2.13
+versionCode=1
+author=Florijan
 description=Installs F-Droid Privileged Extension systemlessly
