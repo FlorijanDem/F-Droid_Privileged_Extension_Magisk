@@ -1,0 +1,13 @@
+{
+"last_update": 3,
+  "modules": [
+  {
+  "id": "F-Droid_Privileged_Extension_Magisk",
+  "last_update": 3,
+    "notes_url": "https://raw.githubusercontent.com/FlorijanDem/F-Droid_Privileged_Extension_Magisk/master/README.MD"
+    "prop_url": "https://raw.githubusercontent.com/FlorijanDem/F-Droid_Privileged_Extension_Magisk/master/module.prop"
+    "zip_url": "https://raw.githubusercontent.com/FlorijanDem/F-Droid_Privileged_Extension_Magisk/master/install.zip"
+  }
+    ],
+  "name": "F-Droid_Privileged_Extension_Magisk"
+}
