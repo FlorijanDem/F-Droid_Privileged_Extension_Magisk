@@ -1,7 +1,7 @@
 id=Fdroid-P-E
 name=F-Droid Privileged Extension
-version=0.2.13-2
-versionCode=3
+version=0.2.13-3
+versionCode=4
 author=Florijan
 description=Installs F-Droid Privileged Extension systemlessly
 updateJson=https://raw.githubusercontent.com/FlorijanDem/F-Droid_Privileged_Extension_Magisk/master/update.json
